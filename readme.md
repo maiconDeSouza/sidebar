@@ -25,11 +25,7 @@
 />
 
 
-<img 
-    align="center"
-    width="300"
-    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/portfolio/mobile2.jpeg"
-/>
+
 
 
 
