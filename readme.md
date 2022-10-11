@@ -28,7 +28,6 @@
 
 
 
-
 <h3>Tecnologias utilizadas</h3>
 
 <h4>Front end</h4>
