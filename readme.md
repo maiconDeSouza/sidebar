@@ -12,6 +12,13 @@
 <p>
     Feito em HTML e CSS puro.
 </p>
+<p>
+    Link do  <a href="https://sidebar.maiconsouza.com.br/" target="_blank">Projeto</a> 
+</p>
+
+<p>
+    Link do meu  <a href="https://portfolio.maiconsouza.com.br/" target="_blank">Portfólio</a> 
+</p>
 
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/sidebar/rodando.gif"
